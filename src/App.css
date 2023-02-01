@@ -1,0 +1,19 @@
+.App {
+  width: 90vw;
+  height: 90vh;
+  margin: 0 auto;
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(255, 255, 255, 0.3);
+  box-shadow: 0 0 20px 4px rgba(255, 255, 255, 0.6);
+  backdrop-filter: blur(10px);
+  overflow: hidden;
+}
+
+.gridCol {
+  margin: 0px;
+  padding: 0;
+}
